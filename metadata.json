@@ -1,0 +1,5 @@
+{
+  "name": "SecureLeave - School Leave-Out Regulation System",
+  "description": "A comprehensive digital regulation system for school leaves featuring multi-role access (Student, Teacher, Nurse, Security, Admin) and automated tracking to replace manual or SMS-based systems.",
+  "requestFramePermissions": []
+}
